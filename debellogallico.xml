@@ -1,0 +1,26 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="TREE">
+<text>
+<body>
+<div n="1" type="textpart" subtype="book">
+<div type="textpart" subtype="chapter" n="1">
+<div type="textpart" subtype="section" n="1">
+	<head> DE BELLO GALLICO </head> <name type="firstname">Caesar</name type="firstname">
+<p><name type="nation">Gallia</name type="nation"> est omnis divisa in partes tres, quarum unam incolunt <name type="population">Belgae</name type="population">, aliam <name type="population">Aquitani</name type="population">, tertiam qui ipsorum lingua <name type="population">Celtae</name type="population">, nostra <name type="population">Galli<name type="population"> appellantur.</p>
+</div>
+<div type="textpart" subtype="section" n="2">
+<p>Hi omnes lingua, institutis, legibus inter se differunt. <name type="population">Gallos</name type="population"> ab <name tupe="population">Aquitanis</name type="population"> <name type="river">Garumna</name type="river"> flumen, a <name type="population">Belgis</name type="population>" <name type="river">Matrona</name type="river"> et <name type="river">Sequana</name type="river"> dividit.</p>
+</div>
+<div type="textpart" subtype="section" n="3">
+<p>Horum omnium fortissimi sunt <name type="population">Belgae</name type="population">, propterea quod a cultu atque humanitate provinciae longissime absunt, minimeque ad eos mercatores saepe commeant atque ea quae ad effeminandos animos pertinent important,</p>
+</div>
+<div type="textpart" subtype="section" n="4">
+<p>proximique sunt Germanis, qui trans <name type="river">Rhenum</name type="river"> incolunt, quibuscum continenter bellum gerunt. Qua de causa <name type="population">Helvetii</name type="population"> quoque reliquos <name type="population">Gallos</name type="population"> virtute praecedunt, quod fere cotidianis proeliis cum <name type="population">Germanis</name type="population"> contendunt, cum aut suis finibus eos prohibent aut ipsi in eorum finibus bellum gerunt.</p>
+</div>
+<div type="textpart" subtype="section" n="5">
+<p>[Eorum una pars, quam <name type="population">Gallos</name type="population"> obtinere dictum est, initium capit a flumine <name type="river">Rhodano</name type="river">, continetur <name type="river">Garumna</name type="river"> flumine, Oceano, finibus <name>Belgarum</name>, attingit etiam ab <name type="population">Equanis</name type="population"> et <name type="population">Helvetiis</name type="population"> flumen <name type="river">Rhenum</name type="river">, vergit ad septentriones.</p>
+</div>
+</div>
+</div>
+</body>
+</text>
+</TEI>
